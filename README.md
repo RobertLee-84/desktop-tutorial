@@ -1,5 +1,23 @@
-# Welcome to GitHub Desktop!
+# Retro Game
 
-This is your README. READMEs are where you can communicate what your project is and how to use it.
+GitHub Pages에서 DOS 게임을 실행하기 위한 기본 프로젝트입니다.
 
-Write your name on line 6, save it, and then head back to GitHub Desktop.
+## 현재 단계
+
+- GitHub Pages 정적 사이트 구조
+- js-dos v8 CDN 연결
+- 반응형 게임 화면
+- 게임 목록 영역
+- 향후 게임별 `.jsdos` 번들 연결 가능
+
+## 다음 단계
+
+1. 배포가 허용된 DOS 게임으로 실제 실행 테스트
+2. 게임 선택 기능
+3. 저장/불러오기
+4. 브라우저 로컬 저장
+5. 필요하면 로그인 + 클라우드 세이브
+
+## 주의
+
+게임 파일의 저작권과 배포 권한은 별도로 확인해야 합니다.
